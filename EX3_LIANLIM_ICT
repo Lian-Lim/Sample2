@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <title>Creating Lists</title>
+    </head>
+    <body>
+        <ol type="I">Top 3 Richest Countries in the World 
+            <li>Japan</li>
+            <li>Russia</li>
+            <li>China</li>
+            <li>China</li>
+        </ol><hr>
+        <ul type="square">Sonic Characters
+            <li>Sonic</li>
+            <li>Tails</li>
+            <li>Knuckles</li>
+            <li>Amy Rose</li>
+        </ul><hr>
+        <dl>
+            <dt>U.S.A</dt>
+            <dd>United States Of America</dd>
+            <dt>Russia</dt>
+            <dd>is a transcontinental country spanning Eastern Europe And Northern Asia</dd>
+            <dt>Japan</dt>
+            <dd>The Land of the Rising Sun</dd>
+        </dl><hr>
+        <ul>
+            <li>Web Development
+                <ol>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                </ol>
+            </li>
+            <li>Graphic Design
+                <ol>
+                    <li>Photoshop</li>
+                    <li>Illustrator</li>
+                    <li>After Effects</li>
+                </ol>
+            </li>
+        </ul>
+    </body>
+</html>
